@@ -13,7 +13,7 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ns/azure_test/codeme/myapp.csproj",
+      "projectUniqueName": "../myapp.csproj",
       "projectName": "myapp",
       "projectPath": "/home/ns/azure_test/codeme/myapp.csproj",
       "packagesPath": "/root/.nuget/packages/",
